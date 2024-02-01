@@ -9,7 +9,8 @@ I'm a passionate junior full-stack developer based in Brasília, Brazil.
 💼 Seeking Opportunities - I'm on the lookout for my first job as a developer. I'm open to exciting opportunities where I can contribute my skills and grow as a professional.
 
 ## 🌐 Contact:
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorschmoegel@gmail.com)[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)]([https://vercel.com/seu-usuario](https://victor-schmoegel.vercel.app/))
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorschmoegel@gmail.com)
+[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://victor-schmoegel.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/victor-schmoegel-595b8b231)
 
 # 💻 Tech Stack:
