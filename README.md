@@ -1,19 +1,65 @@
-### Hi I'm Victor!
+# Hi, I'm Victor Schmoegel! 👋
 
-I'm a passionate junior full-stack developer based in Brasília, Brazil.
+I'm a passionate Full Stack Developer based in Brasília, Brazil, with professional experience in web development and project management.
 
-🔭 What I'm Working On - I'm working on personal projects that challenge me to think creatively and push the boundaries of what I can achieve as a developer.
+## 🚀 Professional Experience
 
-🌱 What I'm Learning - Currently, I'm focused on mastering Java, Angular, Python, and web scraping to enhance my full-stack development skills.
+- **Full Stack Developer** @ [RowBotics](https://rowbotics.com/) (Current)  
+  `React` `Redux` `TypeScript` `Node.js` `Express` `MySQL` `Tailwind`  
+  - Developed and maintained the company's bot-to-client messaging system
+  - Implemented responsive UIs and optimized backend services
 
-💼 Seeking Opportunities - I'm on the lookout for my first job as a developer. I'm open to exciting opportunities where I can contribute my skills and grow as a professional.
+- **Frontend Developer** @ [BeTalent](https://betalent.com.br/) (Dec 2024 - Mar 2025)  
+  `React` `Redux` `TypeScript` `MySQL` `Docker` `Tailwind`  
+  - Built and maintained web applications with daily performance optimizations
 
-## 🌐 Contact:
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorschmoegel@gmail.com)
-[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://victor-schmoegel.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/victor-schmoegel-595b8b231)
+- **Project Manager** @ [Sagit Serviços Ferroviários](https://sagit.com.br/) (Mar 2022 - Present)  
+  - Led project teams through weekly meetings and daily reporting
+  - Managed hiring processes and performance metrics (Power BI, Excel)
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+## 💻 Technical Skills
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Frontend:**  
+`React` `Redux` `Angular` `JavaScript` `TypeScript` `HTML` `CSS` `Tailwind`
+
+**Backend:**  
+`Node.js` `Express` `Java` `Spring Boot` `Python` `GoLang`
+
+**Databases:**  
+`MySQL` `PostgreSQL` `MongoDB`
+
+**DevOps & Tools:**  
+`Docker` `Git` `GitHub` `REST APIs`
+
+## 🎓 Education
+
+- **Full Stack Web Development** @ [Trybe](https://www.betrybe.com/)
+- **Software Engineering Postgraduate** @ [CEUB](https://www.uniceub.br/) (In progress)
+- **Criminal Forensics** @ [Estácio](https://estacio.br/)
+- **Civil Engineering** @ [IESB](https://www.iesb.br/)
+
+## 🌱 Currently Learning
+
+- Advanced Java and Spring Boot concepts
+- Web scraping techniques
+- Performance optimization strategies
+
+## 🏆 Personal Projects
+
+- **[PrestigePalaces](https://prestige-palaces-qpq1.onrender.com/)**  
+  `MERN Stack` `Redux` `Tailwind`  
+  A real estate platform with property listings and management features
+
+- **Sagit Management System**  
+  `Java` `Angular`  
+  Custom ERP solution for railway services company
+
+## 📫 Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/victor-schmoegel-595b8b231/)
+- [GitHub](https://github.com/VictorSchmoegel)
+- [Portfolio](https://victor-schmoegel.vercel.app/)
+- Email: victorschmoegel@gmail.com
+- Phone: +55 (61) 98161-2963
+
+Open to new opportunities and collaborations!
